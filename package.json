@@ -12,6 +12,6 @@
     "astro": "^1.0.0-beta.20"
   },
   "dependencies": {
-    "cypress": "^10.0.3"
+    "cypress": "^12.0.0"
   }
 }
